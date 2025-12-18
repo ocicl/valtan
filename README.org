@@ -4,6 +4,6 @@ Common Lisp to JavaScript compiler
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/cxxxr/valtan.git |
-| commit  | 6552f1c                                 |
+| commit  | 9123cdf                                 |
 | systems | valtan                                  |
 |---------+-----------------------------------------|
