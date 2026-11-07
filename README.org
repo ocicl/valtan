@@ -4,7 +4,7 @@ Common Lisp to JavaScript compiler
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/cxxxr/valtan.git |
-| commit  | f2fe0cd                                 |
+| commit  | f71dda9                                 |
 | systems | valtan                                  |
 |---------+-----------------------------------------|
   
